@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apps="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/menu_item_set_time"
+        android:id="@+id/menu_set_default_time"
+        apps:showAsAction="never" />
+    <item android:title="@string/reset"
+        android:id="@+id/menu_reset_time"
+        apps:showAsAction="never" />
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">计时器</string>
+    <string name="title_main_activity">计时器</string>
+    <string name="menu_item_set_time">设置时间</string>
+    <string name="set_default_time">设置默认时间(单位:小时)</string>
+    <string name="cancel">取消</string>
+    <string name="sure">确认</string>
+    <string name="please_input_time">请输入时间</string>
+    <string name="please_input_integer">请输入数字</string>
+    <string name="reset">重置</string>
+    <string name="pause">暂停</string>
+    <string name="start">开始</string>
+    <string name="click_for_stop_ring">点击确认以取消闹铃</string>
+    <string name="time_is_up">时间到</string>
+    <string name="counting">正在倒计时</string>
+</resources>
